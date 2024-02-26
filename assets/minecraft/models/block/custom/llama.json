@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "block/llama"
+		"1": "block/custom/llama",
+		"particle": "block/custom/llama"
 	},
 	"elements": [
 		{
