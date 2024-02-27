@@ -4,6 +4,7 @@
     "overrides": [
      {"predicate": {"custom_model_data":1}, "model": "block/custom/test0"},
      {"predicate": {"custom_model_data":2}, "model": "block/custom/test1"},
-     {"predicate": {"custom_model_data":3}, "model": "block/custom/llama"}
+     {"predicate": {"custom_model_data":3}, "model": "block/custom/llama"},
+     {"predicate": {"custom_model_data":4}, "model": "block/custom/kohakufairy"}
     ]
 }
