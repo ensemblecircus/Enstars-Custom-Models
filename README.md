@@ -50,31 +50,28 @@ I made use of Ensemble Stars!! (the game), the Ensemble Stars Wiki, and
 gradualcolors's Ensemble Stars Assets Drive for reference when making the
 textures.
 
+# Issues #
+- [RESOLVED] ~~CIT not working with 1.20.4~~
+
 # Plans # 
-- REMOVE THE LLAMA
-- REMOVE THE CUP HATS
-- Figure out CIT
+- REMOVE TEST MODELS
 - Plan first release
     - Plan naming conventions
-- Kohaku fairy
-    - texture
-    - position
 
 ## Textures ## 
-### Planned ###
+### Release 1 ###
+- Unit Nuis
+- Kohaku Fairy
+- 
+
 - Kohaku nui
 - Kohaku muppet
 - Kohaku fairy
 - Tiny bee (maybe)
 - bkubstars
-
 - Cat ears
-
-Double Face pack
 - gun. (reskinned crossbow)
-- Double Face logo ()
-
-Alkaloid pack
+- Double Face logo
 - Alkaloid hat
 - Alkaloid jacket + gloves (renamed chestplate(for every kind))
     - Alkaloid_Spade
@@ -82,33 +79,27 @@ Alkaloid pack
     - Alkaloid_Heart
     - Alkaloid_Club
 - Tatsumi car model
-
-Fine pack
 - Wataru's hair
 
-Ryuseitai pack
-
-Trickstar pack
-
-Eden pack
-
-2wink pack
-
-Valkyrie pack
-
-Crazy:B pack
-
-Undead pack
-
-Akatsuki pack
-- Souma's ponytail
-
-Ra*bits pack
-
-Knights pack
-
-MaM pack
-
-Switch pack
-
 # Complete #
+2/29/2024
+- Ensured usage of CIT works
+- Naming conventions set:
+    - Naming will always use "(Character/Unit) (Color) (Item Type) (Item Specification)"
+    - Each part is only applicable when necessary, the goal is for each name to be as concise as possible
+    - How the unit names will be written: 
+        - Fine
+        - Trickstar
+        - Alkaloid
+        - Ryuseitai
+        - Crazy B
+        - Eden
+        - Valkyrie
+        - 2wink
+        - Rabits
+        - Undead
+        - Akatsuki
+        - Knights
+        - Switch
+        - MaM
+        - Double Face
